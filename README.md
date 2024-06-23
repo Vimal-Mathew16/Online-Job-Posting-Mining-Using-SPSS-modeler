@@ -2,8 +2,10 @@
 
 ## AIM:
 To identify relationships between the following:
+
 a)
 Examine the relationship between categorical.
+
 b)
 Examine the relationship between a categorical and continuous field.
 
