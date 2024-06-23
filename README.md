@@ -1,13 +1,13 @@
 # Online-Job-Posting-Mining-Using-SPSS
 
-AIM:
+## AIM:
 To identify relationships between the following:
 a)
 Examine the relationship between categorical.
 b)
 Examine the relationship between a categorical and continuous field.
 
-PROCEDURE TO IMPLEMENTATION:
+## PROCEDURE TO IMPLEMENTATION:
 a)
 Examine the Relationship between Categorical fields
 STEP1: Import the file telco x data.txt. From the Output palette, add a Matrix node downstream from the Type node.
@@ -28,7 +28,8 @@ DATE:
 IDENTIFY RELATIONSHIPS IN THE
 TELECOMMUNICATIONS DATA
 In the Field box, select HANDSET. In the Color box, select CHURN. Click the Normalize by color check box to enable it. Click Run.
-b) Examine the Relationship between Categorical and Continuous field
+b) 
+Examine the Relationship between Categorical and Continuous field
 STEP 1: From the Output palette, add a Means node downstream from the Type node.
 STEP 2: Edit the Means node. In the Grouping field box, select CHURN. Similarly In the Test field(s) box, select DROPPED_CALLS. Click Run.
 Close the Means output window.
