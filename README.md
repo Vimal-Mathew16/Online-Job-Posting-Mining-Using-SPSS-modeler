@@ -12,7 +12,9 @@ Examine the relationship between a categorical and continuous field.
 ## PROCEDURE TO IMPLEMENTATION:
 a)
 Examine the Relationship between Categorical fields
+
 STEP1: Import the file telco x data.txt. From the Output palette, add a Matrix node downstream from the Type node.
+
 STEP 2: Edit the Matrix node.
 ➢
 In the Rows box, select HANDSET.
